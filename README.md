@@ -1,10 +1,4 @@
 # Renaissance Wigs — Order Management System
-## Build Prompt for Claude Code
-
-> Save this as `PROJECT.md` at the root of an empty repository, then tell Claude Code:
-> *"Read PROJECT.md. Do not write application code yet. Complete Phase 0 and stop."*
-
----
 
 # PART ONE — BUSINESS CONTEXT
 
