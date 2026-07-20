@@ -190,7 +190,6 @@ Treat this map and the future-state workflow below as **hypotheses, not final re
 - **Extract** structured intent from free-text customer messages (accepted substitution, declined, asked for ETA, disputed).
 - **Explain and phrase** substitution suggestions — the *ranking* is deterministic; AI writes the human-readable rationale and the customer-facing offer.
 - **Draft WhatsApp messages** for alternative offers, ETA updates, return requests, and shipping notifications. Always drafts, always approved by a human before sending.
-- **Suggest a reason category** when an order is cancelled or a substitution is declined.
 - **Rank** among already-valid options — for example, which of several eligible consignment holders to approach first, given region, holding duration, and account standing.
 - Later: an internal assistant answering questions about orders, inventory, and customer activity over approved data.
 
